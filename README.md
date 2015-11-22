@@ -1,2 +1,2 @@
 # cfsandbox
-Playing around with samples/demos.
+Playing around with CloudFoundry samples/demos.
